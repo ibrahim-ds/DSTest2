@@ -24,7 +24,7 @@
 		<div class="row">
 			<div class="col-md-12">
 				<div class="attraction-bx1 text-center">
-					<h3>Popular Activities</h3>
+					<h3>Demo Popular Activities</h3>
 					<span>Favorite experiences booked by travelers</span>
 				</div>
 				<div class="attraction-bx3 mt-5">

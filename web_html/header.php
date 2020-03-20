@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<link rel="shortcut icon" href="images/icon-logo.ico" type="favicon/ico"/>
-		<title>888 Travels</title>
+		<title>888 Travels Demo</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, maximum-scale=1">
 		
